@@ -1,0 +1,8 @@
+httpx
+beautifulsoup4
+html2text
+openai
+python-dotenv
+loguru
+fastapi
+uvicorn
