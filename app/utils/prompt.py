@@ -59,7 +59,7 @@ Each element should follow these formats:
 534 | 
 535 | **Điều 14. Hoạt động giám sát và kiểm tra quá trình thử nghiệm**
 536 | 
-537 | 1\. Ngân hàng Nhà nước thực hiện giám sát tổ chức tham gia Cơ chế thử nghiệm
+537 | 1\\. Ngân hàng Nhà nước thực hiện giám sát tổ chức tham gia Cơ chế thử nghiệm
 538 | thông qua các hoạt động như sau:
 </input>
 
@@ -89,20 +89,20 @@ Each element should follow these formats:
 4 | # ĐỐI VỚI CÁC GIẢI PHÁP FINTECH ĐƯỢC QUY ĐỊNH TẠI ĐIỂM A, ĐIỂM B KHOẢN 2
 5 | # Điều 13. Trình tự, thủ tục đăng ký tham gia Cơ chế thử nghiệm
 6 | 
-7 | 1\. Trường hợp hồ sơ được gửi qua đường bưu điện (dịch vụ bưu chính) hoặc
+7 | 1\\. Trường hợp hồ sơ được gửi qua đường bưu điện (dịch vụ bưu chính) hoặc
 8 | nộp trực tiếp tới Bộ phận Một cửa Ngân hàng Nhà nước, tổ chức đăng ký tham gia
 9 | Cơ chế thử nghiệm gửi 02 bộ hồ sơ và 06 đĩa CD (hoặc 06 USB) lưu trữ bản quét
 10 | Bộ hồ sơ đầy đủ đề nghị cấp Giấy chứng nhận tham gia Cơ chế thử nghiệm theo
 11 | quy định tại Điều 12 Nghị định này.
 12 | 
-13 | 2\. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Ngân hàng Nhà
+13 | 2\\. Trong thời hạn 05 ngày làm việc kể từ ngày nhận được hồ sơ, Ngân hàng Nhà
 14 | nước có văn bản xác nhận đã nhận đầy đủ hồ sơ hợp lệ hoặc có văn bản yêu cầu
 15 | tổ chức đăng ký tham gia Cơ chế thử nghiệm bổ sung, hoàn thiện thành phần hồ
 16 | sơ. Thời gian bổ sung, hoàn thiện thành phần hồ sơ không tính vào thời gian
 17 | thẩm định hồ sơ.
 18 | # Điều 14. Xem xét hồ sơ
 19 | 
-20 | 1\. Thời hạn xem xét hồ sơ là 45 ngày làm việc kể từ ngày Ngân hàng Nhà nước
+20 | 1\\. Thời hạn xem xét hồ sơ là 45 ngày làm việc kể từ ngày Ngân hàng Nhà nước
 21 | có văn bản xác nhận đã nhận đầy đủ hồ sơ hợp lệ theo quy định tại khoản 2 Điều 13
 22 | Nghị định này.
 </input>
@@ -143,17 +143,17 @@ Each element should follow these formats:
 2 | # TRÁCH NHIỆM CỦA CÁC CƠ QUAN, TỔ CHỨC LIÊN QUAN
 3 | # Điều 25. Trách nhiệm của Ngân hàng Nhà nước
 4 | 
-5 | 1\. Tiếp nhận, thẩm định hồ sơ đăng ký tham gia Cơ chế thử nghiệm.
+5 | 1\\. Tiếp nhận, thẩm định hồ sơ đăng ký tham gia Cơ chế thử nghiệm.
 6 | 
-7 | 2\. Cấp, cấp lại, sửa đổi, bổ sung, thu hồi Giấy chứng nhận tham gia Cơ chế thử nghiệm.
+7 | 2\\. Cấp, cấp lại, sửa đổi, bổ sung, thu hồi Giấy chứng nhận tham gia Cơ chế thử nghiệm.
 8 | 
-9 | 3\. Xử lý vi phạm quy định tại Nghị định này và pháp luật có liên quan.
+9 | 3\\. Xử lý vi phạm quy định tại Nghị định này và pháp luật có liên quan.
 10 | # Điều 26. Trách nhiệm của tổ chức tham gia Cơ chế thử nghiệm
 11 | 
-12 | 1\. Chịu trách nhiệm trước pháp luật về tính hợp pháp, trung thực và chính xác của
+12 | 1\\. Chịu trách nhiệm trước pháp luật về tính hợp pháp, trung thực và chính xác của
 13 | hồ sơ đăng ký tham gia Cơ chế thử nghiệm. 
 14 | 
-15 | 2\. Tuân thủ quy định tại Nghị định này và các quy định pháp luật có liên quan.
+15 | 2\\. Tuân thủ quy định tại Nghị định này và các quy định pháp luật có liên quan.
 </input>
 
 <expected_output>
@@ -183,19 +183,19 @@ Each element should follow these formats:
 <input>
 1 | # Điều 1. Phạm vi điều chỉnh
 2 | 
-3 | 1\. Nghị định này quy định về Cơ chế thử nghiệm có kiểm soát trong lĩnh vực
+3 | 1\\. Nghị định này quy định về Cơ chế thử nghiệm có kiểm soát trong lĩnh vực
 4 | ngân hàng (sau đây gọi là Cơ chế thử nghiệm) đối với việc triển khai sản phẩm,
 5 | dịch vụ, mô hình kinh doanh mới thông qua ứng dụng giải pháp công nghệ (sau
 6 | đây gọi là giải pháp công nghệ tài chính).
 7 | 
 8 | # Điều 2. Đối tượng áp dụng
 9 | 
-10 | 1\. Ngân hàng Nhà nước Việt Nam.
+10 | 1\\. Ngân hàng Nhà nước Việt Nam.
 11 | 
-12 | 2\. Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài theo quy định của
+12 | 2\\. Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài theo quy định của
 13 | Luật Các tổ chức tín dụng.
 14 | 
-15 | 3\. Doanh nghiệp hoạt động trong lĩnh vực công nghệ.
+15 | 3\\. Doanh nghiệp hoạt động trong lĩnh vực công nghệ.
 </input>
 
 <expected_output>
