@@ -321,10 +321,10 @@ class VBPLCrawler:
 
         # Clean up the content
         data = []
-        title_regex = re.compile(r'([\s\S]+?)(?=(\**Điều\s*[0-9]+)|(\**Mục\s*[0-9]+))', re.IGNORECASE)
-        chuong_regex = re.compile(r'\**(Chương\s*(X|IX|V?I{0,3}))\s*\**([\s\S]*?)(?=(\**Chương\s*(X|IX|V?I{0,3}))|\Z)')
-        muc_regex = re.compile(r'\**(Mục\s*[0-9]+)\**([\s\S]+?)(?=(\**Mục\s*[0-9]+)|(\**Chương\s*(X|IX|V?I{0,3}))|\Z)')
-        dieu_regex = re.compile(r'\**(Điều\s*[0-9*]*\\*\.+[\s\S]+?)(?=\n+\**.*Điều\s*[0-9*]+\\*\.|\Z)')
+        title_regex = re.compile(r'([\s\S]+?)(?=(\n+\s*Điều\s*[0-9]+)|(\n+\s*Mục\s*[0-9]+))', re.IGNORECASE)
+        chuong_regex = re.compile(r'\n*\s*(Chương\s*([MDCLXVI]+))\s*([\s\S]*?)(?=(\n+\s*Chương\s*([MDCLXVI]+))|\Z)')
+        muc_regex = re.compile(r'\n*\s*(Mục\s*[0-9]+)([\s\S]+?)(?=(\n+\s*Mục\s*[0-9]+)|(\n+\s*Chương\s*([MDCLXVI]+))|\Z)')
+        dieu_regex = re.compile(r'\n*\s*(Điều\s*[0-9]*\\*\.+[\s\S]+?)(?=\n+\s*Điều\s*[0-9]+\\*\.|\Z)')
 
         chuong_matches = chuong_regex.findall(content)
         if chuong_matches:
